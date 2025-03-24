@@ -1,0 +1,5 @@
+multiversal-lovers-users-bucket:
+	Keys:
+		users: [json]
+		*all unique user_id*
+		*all unique character_id in format: (user_id)_(character_name)*
